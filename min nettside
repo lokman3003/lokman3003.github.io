@@ -1,11 +1,11 @@
 <html>
 <head>
-  <title>saus</title>
+  <title>Frenc montana french vanilla</title>
   <style>
     .city {
         background-color: BLUE;
         color: black;
-        padding: 100px;
+        padding: 20px;
     }
   </style>
 </head>
@@ -17,7 +17,7 @@
 <img src ="./images/Hamburger.jpg" alt="helvete" width="381" style"600" />
 <img src= "./images/Sasquatch.jpg" alt="saus" width="381" style "600" />
 <img src= "./images/fatkid.jpg" alt="fatkid" alt="hei" width="381" style="600"/>
-<a href="https://kuben.vgs.no/">Kuben.vgs</a>
+<a href="url">http://www.skoda-auto.no/</a>
 <footer>SHUT UP SHUT UP SHUT UP SHUT UP SHUT UP SHUT UP </footer>
 <h1>bloop 1</h1>
 <h2>Donia aramesh2</h2>
